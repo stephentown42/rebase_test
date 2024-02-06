@@ -2,4 +2,4 @@ hi, i'm commit 1
 
 This is the new version of main
 
-I think main is really great
+I think main isn't very good
