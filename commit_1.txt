@@ -1,3 +1,5 @@
 hi, i'm commit 1
 
 This is the new version of main
+
+And now I've added a line from the feature branch
